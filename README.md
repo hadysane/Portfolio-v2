@@ -32,4 +32,4 @@ Le dossier `dist/` est un site statique prêt à héberger. Aucun compte, secret
 
 Le décor respecte `prefers-reduced-motion`, propose une pause et arrête le rendu hors écran ou dans un onglet masqué. Sans WebGL ou JavaScript, les informations et liens restent accessibles avec un décor CSS fixe. Le menu mobile utilise une boîte de dialogue native avec gestion du focus et fermeture par Échap.
 
-Les illustrations des expériences sont abstraites. Les technologies indiquées dans Cloud Campus décrivent la formation et ne sont pas toutes attribuées au produit Baulders. Le diplôme est présenté comme « niveau bac+4 », conformément aux informations fournies.
+Les expériences présentent des captures des sites publics de Baulders et Appalga, avec leurs liens, dans `public/images/`. Ces aperçus illustrent les entreprises et ne sont pas présentés comme des réalisations intégrales de Hady. Les technologies indiquées dans Cloud Campus décrivent la formation et ne sont pas toutes attribuées au produit Baulders. Le diplôme est présenté comme « niveau bac+4 », conformément aux informations fournies.
