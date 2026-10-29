@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "targets": {
+    "/": {
+      "targetKind": "new-ui",
+      "projectId": "c9538de5-b4b8-47c4-a45f-b1034e42dc04",
+      "activeDraftId": "d6c9a932-3979-4c36-8ab1-f976b36f886d",
+      "designSystemPath": ".superdesign/design-system.md",
+      "contextFiles": [
+        ".superdesign/design-system.md",
+        ".superdesign/profile-sources.md"
+      ],
+      "fingerprints": {
+        ".superdesign/design-system.md": "ff4226b00395ed55330a07002517033e83f073619d140218fa69be93d79079bb",
+        ".superdesign/profile-sources.md": "eb407bc62ed5345137d20095cf1e748a7dbafe358cd4fe70eadbbd992aa20fcf"
+      },
+      "drafts": {
+        "d6c9a932-3979-4c36-8ab1-f976b36f886d": {
+          "title": "Hady Sané — After Hours Portfolio",
+          "visualDirection": "1980s sunset, aubergine night, striped peach sun, wireframe terrain, editorial Space Grotesk",
+          "previewUrl": "https://p.superdesign.dev/draft/d6c9a932-3979-4c36-8ab1-f976b36f886d",
+          "currentVersion": 4
+        }
+      },
+      "canvasUrl": "https://superdesign.dev/teams/d712c77e-52de-4b8b-ab94-bd9f8342c61b/projects/c9538de5-b4b8-47c4-a45f-b1034e42dc04",
+      "status": "approved-and-implemented-locally",
+      "updatedAt": "2026-10-29",
+      "profileSourcesPath": ".superdesign/profile-sources.md",
+      "approvedAt": "2026-10-29",
+      "implementationEntry": "index.html"
+    }
+  }
+}
